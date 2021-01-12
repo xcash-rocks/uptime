@@ -1,6 +1,6 @@
 # Change these first
 owner: xcash-rocks # Your GitHub username
-repo: upptime # Your GitHub repository name
+repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -17,14 +17,14 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  baseUrl: /uptime
   logoUrl: https://xcash.rocks/xcash-rocket-toTop.svg
   name: xcash.rocks nodes
   introTitle: "Welcome to xcash.rocks uptime monitor!"
   introMessage:
   navbar:
     - title: Node Status
-      href: https://xcash-rocks.github.io/upptime/
+      href: https://xcash-rocks.github.io/uptime/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
