@@ -23,7 +23,7 @@ status-website:
   introTitle: "Welcome to xcash.rocks uptime monitor!"
   introMessage:
   navbar:
-    - title: Node Status
+    - title: xcash.rocks Node Status
       href: https://xcash-rocks.github.io/uptime/
 
 # Upptime also supports notifications, assigning issues, and more
