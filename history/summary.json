@@ -4,9 +4,9 @@
     "url": "http://node.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/node.xcash.rocks",
     "slug": "xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 408,
     "timeMonth": 446,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 0
+    }
   },
   {
     "name": "lowfee.xcash.rocks",
     "url": "http://lowfee.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/lowfee.xcash.rocks",
     "slug": "lowfee-xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 422,
     "timeMonth": 428,
     "timeYear": 428,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 0
+    }
   },
   {
     "name": "pi.xcash.rocks",
