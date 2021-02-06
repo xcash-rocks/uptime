@@ -4,18 +4,19 @@
     "url": "http://node.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/node.xcash.rocks",
     "slug": "xcash-rocks",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 449,
     "timeDay": 391,
     "timeWeek": 456,
     "timeMonth": 449,
     "timeYear": 449,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-02-04": 112
     }
   },
@@ -24,18 +25,19 @@
     "url": "http://lowfee.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/lowfee.xcash.rocks",
     "slug": "lowfee-xcash-rocks",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 429,
     "timeDay": 400,
     "timeWeek": 450,
     "timeMonth": 429,
     "timeYear": 429,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2021-02-04": 112
     }
   },
@@ -44,9 +46,9 @@
     "url": "http://pi.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/pi.xcash.rocks",
     "slug": "pi-xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,24 +57,28 @@
     "timeWeek": 483,
     "timeMonth": 456,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   },
   {
     "name": "crazy.xcash.rocks",
     "url": "http://crazy.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/crazy.xcash.rocks",
     "slug": "crazy-xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 553,
-    "timeWeek": 486,
-    "timeMonth": 458,
-    "timeYear": 458,
-    "dailyMinutesDown": {}
+    "time": 461,
+    "timeDay": 535,
+    "timeWeek": 490,
+    "timeMonth": 461,
+    "timeYear": 461,
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   }
 ]
