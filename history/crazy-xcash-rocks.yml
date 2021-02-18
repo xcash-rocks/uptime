@@ -1,7 +1,7 @@
 url: http://crazy.xcash.rocks
-status: up
-code: 200
-responseTime: 336
-lastUpdated: 2021-02-17T23:03:44.708Z
+status: down
+code: 502
+responseTime: 319
+lastUpdated: 2021-02-18T07:31:58.482Z
 startTime: Tue Jan 12 2021 01:26:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
