@@ -1,7 +1,7 @@
 url: http://node.xcash.rocks
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-02-18T15:47:52.137Z
+status: up
+code: 200
+responseTime: 353
+lastUpdated: 2021-02-18T15:55:00.891Z
 startTime: Tue Jan 12 2021 01:25:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
