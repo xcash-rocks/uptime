@@ -78,19 +78,19 @@
     "url": "http://lowfee.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/lowfee.xcash.rocks",
     "slug": "lowfee-xcash-rocks",
-    "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "97.79%",
+    "status": "down",
+    "uptime": "97.89%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "97.78%",
     "uptimeMonth": "98.74%",
-    "uptimeYear": "97.88%",
+    "uptimeYear": "97.89%",
     "time": 434,
     "timeDay": 304,
     "timeWeek": 348,
     "timeMonth": 362,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2021-06-24": 16,
+      "2021-06-24": 17,
       "2021-06-23": 50,
       "2021-06-21": 50,
       "2021-06-20": 58,
@@ -145,8 +145,7 @@
       "2021-02-14": 19,
       "2021-02-13": 22,
       "2021-02-09": 24,
-      "2021-02-08": 19,
-      "2021-02-07": 18
+      "2021-02-08": 19
     }
   },
   {
@@ -235,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-06-24": 951,
+      "2021-06-24": 1004,
       "2021-06-23": 1440,
       "2021-06-22": 1440,
       "2021-06-21": 1440,
