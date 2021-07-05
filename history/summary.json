@@ -6,17 +6,17 @@
     "slug": "xcash-rocks",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "93.11%",
-    "uptimeWeek": "94.93%",
-    "uptimeMonth": "97.05%",
+    "uptimeDay": "93.47%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "98.85%",
     "time": 452,
-    "timeDay": 418,
+    "timeDay": 323,
     "timeWeek": 405,
     "timeMonth": 475,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2021-07-05": 49,
+      "2021-07-05": 44,
       "2021-07-04": 84,
       "2021-07-03": 40,
       "2021-07-02": 198,
@@ -68,7 +68,7 @@
       "2021-03-05": 21,
       "2021-03-04": 59,
       "2021-03-03": 90,
-      "2021-02-28": 15
+      "2021-02-28": 39
     }
   },
   {
@@ -76,19 +76,19 @@
     "url": "http://lowfee.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/lowfee.xcash.rocks",
     "slug": "lowfee-xcash-rocks",
-    "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "92.08%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "92.03%",
     "uptimeWeek": "94.23%",
     "uptimeMonth": "97.51%",
-    "uptimeYear": "98.05%",
+    "uptimeYear": "98.89%",
     "time": 473,
-    "timeDay": 370,
+    "timeDay": 373,
     "timeWeek": 728,
     "timeMonth": 562,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2021-07-05": 48,
+      "2021-07-05": 49,
       "2021-07-04": 67,
       "2021-07-03": 131,
       "2021-07-02": 156,
@@ -135,9 +135,7 @@
       "2021-03-09": 75,
       "2021-03-08": 72,
       "2021-03-07": 119,
-      "2021-03-06": 637,
-      "2021-03-05": 1440,
-      "2021-03-04": 64
+      "2021-03-06": 28
     }
   },
   {
@@ -152,7 +150,7 @@
     "uptimeMonth": "97.82%",
     "uptimeYear": "95.77%",
     "time": 382,
-    "timeDay": 295,
+    "timeDay": 309,
     "timeWeek": 319,
     "timeMonth": 348,
     "timeYear": 382,
@@ -231,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-07-05": 711,
+      "2021-07-05": 723,
       "2021-07-04": 1440,
       "2021-07-03": 1440,
       "2021-07-02": 1440,
