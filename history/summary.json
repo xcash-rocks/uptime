@@ -4,18 +4,19 @@
     "url": "http://node.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/node.xcash.rocks",
     "slug": "xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "89.95%",
-    "uptimeWeek": "94.94%",
+    "uptimeDay": "91.40%",
+    "uptimeWeek": "94.93%",
     "uptimeMonth": "96.65%",
     "uptimeYear": "98.86%",
     "time": 456,
-    "timeDay": 418,
-    "timeWeek": 457,
+    "timeDay": 425,
+    "timeWeek": 459,
     "timeMonth": 438,
     "timeYear": 456,
     "dailyMinutesDown": {
+      "2021-07-10": 1,
       "2021-07-09": 202,
       "2021-07-08": 121,
       "2021-07-06": 39,
@@ -63,7 +64,7 @@
       "2021-04-24": 32,
       "2021-04-23": 15,
       "2021-04-21": 66,
-      "2021-03-16": 37
+      "2021-03-16": 22
     }
   },
   {
@@ -78,8 +79,8 @@
     "uptimeMonth": "96.77%",
     "uptimeYear": "98.93%",
     "time": 495,
-    "timeDay": 1617,
-    "timeWeek": 589,
+    "timeDay": 1697,
+    "timeWeek": 590,
     "timeMonth": 618,
     "timeYear": 495,
     "dailyMinutesDown": {
@@ -145,7 +146,7 @@
     "uptimeMonth": "96.52%",
     "uptimeYear": "95.52%",
     "time": 377,
-    "timeDay": 309,
+    "timeDay": 320,
     "timeWeek": 328,
     "timeMonth": 341,
     "timeYear": 377,
@@ -228,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-07-10": 420,
+      "2021-07-10": 455,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
