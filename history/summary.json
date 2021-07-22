@@ -4,19 +4,19 @@
     "url": "http://node.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/node.xcash.rocks",
     "slug": "xcash-rocks",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "98.29%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "98.28%",
     "uptimeMonth": "95.69%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.97%",
     "time": 441,
     "timeDay": 384,
     "timeWeek": 359,
     "timeMonth": 403,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2021-07-22": 58,
+      "2021-07-22": 59,
       "2021-07-21": 17,
       "2021-07-20": 41,
       "2021-07-19": 20,
@@ -60,7 +60,7 @@
       "2021-05-27": 39,
       "2021-05-24": 53,
       "2021-05-22": 55,
-      "2021-05-19": 70
+      "2021-05-19": 19
     }
   },
   {
@@ -68,19 +68,19 @@
     "url": "http://lowfee.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/lowfee.xcash.rocks",
     "slug": "lowfee-xcash-rocks",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "90.43%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "90.42%",
     "uptimeMonth": "94.11%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 501,
     "timeDay": 346,
     "timeWeek": 611,
     "timeMonth": 620,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2021-07-22": 72,
+      "2021-07-22": 73,
       "2021-07-21": 50,
       "2021-07-20": 706,
       "2021-07-17": 21,
@@ -121,8 +121,7 @@
       "2021-05-22": 22,
       "2021-05-20": 74,
       "2021-05-15": 53,
-      "2021-05-12": 20,
-      "2021-05-09": 16
+      "2021-05-12": 20
     }
   },
   {
@@ -221,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-07-22": 1287,
+      "2021-07-22": 1305,
       "2021-07-21": 1440,
       "2021-07-20": 1440,
       "2021-07-19": 1440,
