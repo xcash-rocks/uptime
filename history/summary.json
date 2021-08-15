@@ -4,10 +4,10 @@
     "url": "http://node.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/node.xcash.rocks",
     "slug": "xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "98.46%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "98.45%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.14%",
     "time": 470,
@@ -16,6 +16,7 @@
     "timeMonth": 598,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2021-08-15": 1,
       "2021-08-14": 83,
       "2021-08-10": 16,
       "2021-08-09": 57,
@@ -60,8 +61,7 @@
       "2021-06-15": 42,
       "2021-06-12": 118,
       "2021-06-09": 28,
-      "2021-06-08": 40,
-      "2021-06-07": 23
+      "2021-06-08": 40
     }
   },
   {
@@ -219,7 +219,7 @@
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-08-15": 615,
+      "2021-08-15": 664,
       "2021-08-14": 1440,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
