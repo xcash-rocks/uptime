@@ -1,7 +1,7 @@
 url: http://pi.xcash.rocks
-status: up
-code: 200
-responseTime: 194
-lastUpdated: 2021-08-22T23:05:05.320Z
+status: down
+code: 400
+responseTime: 304
+lastUpdated: 2021-08-23T00:35:43.582Z
 startTime: Tue Jan 12 2021 01:25:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
