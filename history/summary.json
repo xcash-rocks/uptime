@@ -4,10 +4,10 @@
     "url": "http://node.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/node.xcash.rocks",
     "slug": "xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "67.16%",
-    "uptimeWeek": "80.39%",
+    "uptimeDay": "67.49%",
+    "uptimeWeek": "80.38%",
     "uptimeMonth": "94.15%",
     "uptimeYear": "98.73%",
     "time": 462,
@@ -16,7 +16,7 @@
     "timeMonth": 544,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2021-08-23": 347,
+      "2021-08-23": 348,
       "2021-08-22": 830,
       "2021-08-21": 576,
       "2021-08-20": 64,
@@ -51,7 +51,7 @@
       "2021-07-05": 64,
       "2021-07-04": 84,
       "2021-07-03": 40,
-      "2021-07-02": 182
+      "2021-07-02": 166
     }
   },
   {
@@ -59,10 +59,10 @@
     "url": "http://lowfee.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/lowfee.xcash.rocks",
     "slug": "lowfee-xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "77.04%",
-    "uptimeWeek": "89.08%",
+    "uptimeDay": "77.00%",
+    "uptimeWeek": "89.07%",
     "uptimeMonth": "96.75%",
     "uptimeYear": "98.83%",
     "time": 514,
@@ -71,7 +71,7 @@
     "timeMonth": 583,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2021-08-23": 330,
+      "2021-08-23": 331,
       "2021-08-21": 420,
       "2021-08-20": 88,
       "2021-08-19": 76,
@@ -102,8 +102,7 @@
       "2021-07-04": 67,
       "2021-07-03": 131,
       "2021-07-02": 156,
-      "2021-07-01": 41,
-      "2021-06-30": 23
+      "2021-07-01": 41
     }
   },
   {
@@ -113,9 +112,9 @@
     "slug": "pi-xcash-rocks",
     "status": "down",
     "uptime": "95.59%",
-    "uptimeDay": "36.48%",
+    "uptimeDay": "36.11%",
     "uptimeWeek": "44.13%",
-    "uptimeMonth": "80.88%",
+    "uptimeMonth": "80.86%",
     "uptimeYear": "95.59%",
     "time": 370,
     "timeDay": 249,
@@ -123,7 +122,7 @@
     "timeMonth": 345,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-08-23": 915,
+      "2021-08-23": 920,
       "2021-08-19": 1348,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
@@ -202,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-08-23": 950,
+      "2021-08-23": 956,
       "2021-08-22": 1440,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
