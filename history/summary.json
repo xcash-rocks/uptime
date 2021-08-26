@@ -11,7 +11,7 @@
     "uptimeMonth": "92.20%",
     "uptimeYear": "98.70%",
     "time": 473,
-    "timeDay": 405,
+    "timeDay": 410,
     "timeWeek": 540,
     "timeMonth": 456,
     "timeYear": 473,
@@ -56,18 +56,18 @@
     "icon": "https://favicons.githubusercontent.com/lowfee.xcash.rocks",
     "slug": "lowfee-xcash-rocks",
     "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "89.84%",
-    "uptimeWeek": "84.58%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "98.85%",
+    "uptime": "98.84%",
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "84.68%",
+    "uptimeMonth": "95.15%",
+    "uptimeYear": "98.84%",
     "time": 584,
     "timeDay": 1029,
     "timeWeek": 1154,
     "timeMonth": 840,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2021-08-26": 147,
+      "2021-08-26": 137,
       "2021-08-25": 125,
       "2021-08-24": 320,
       "2021-08-23": 452,
@@ -93,7 +93,7 @@
       "2021-07-13": 123,
       "2021-07-12": 129,
       "2021-07-10": 66,
-      "2021-07-09": 134
+      "2021-07-09": 156
     }
   },
   {
@@ -101,10 +101,10 @@
     "url": "http://pi.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/pi.xcash.rocks",
     "slug": "pi-xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "94.42%",
-    "uptimeDay": "40.76%",
-    "uptimeWeek": "49.95%",
+    "uptimeDay": "41.69%",
+    "uptimeWeek": "50.08%",
     "uptimeMonth": "71.72%",
     "uptimeYear": "94.42%",
     "time": 370,
@@ -113,7 +113,7 @@
     "timeMonth": 342,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-08-26": 682,
+      "2021-08-26": 683,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
       "2021-08-23": 1404,
@@ -174,7 +174,7 @@
       "2021-03-01": 105,
       "2021-02-28": 24,
       "2021-02-27": 20,
-      "2021-02-26": 91
+      "2021-02-26": 75
     }
   },
   {
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-08-26": 1268,
+      "2021-08-26": 1282,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
       "2021-08-23": 1440,
