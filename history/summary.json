@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/node.xcash.rocks",
     "slug": "xcash-rocks",
     "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "92.38%",
-    "uptimeWeek": "72.94%",
-    "uptimeMonth": "92.07%",
-    "uptimeYear": "98.73%",
+    "uptime": "98.70%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "72.99%",
+    "uptimeMonth": "92.08%",
+    "uptimeYear": "98.70%",
     "time": 473,
     "timeDay": 387,
     "timeWeek": 543,
     "timeMonth": 456,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2021-08-27": 58,
+      "2021-08-27": 53,
       "2021-08-26": 306,
       "2021-08-25": 146,
       "2021-08-24": 290,
@@ -47,7 +47,7 @@
       "2021-07-14": 166,
       "2021-07-13": 54,
       "2021-07-12": 146,
-      "2021-07-11": 19
+      "2021-07-11": 116
     }
   },
   {
@@ -55,19 +55,19 @@
     "url": "http://lowfee.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/lowfee.xcash.rocks",
     "slug": "lowfee-xcash-rocks",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "88.23%",
-    "uptimeWeek": "83.92%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "88.19%",
+    "uptimeWeek": "83.91%",
     "uptimeMonth": "94.84%",
-    "uptimeYear": "98.84%",
+    "uptimeYear": "98.85%",
     "time": 583,
     "timeDay": 389,
     "timeWeek": 1142,
     "timeMonth": 832,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2021-08-27": 116,
+      "2021-08-27": 117,
       "2021-08-26": 156,
       "2021-08-25": 125,
       "2021-08-24": 320,
@@ -94,7 +94,7 @@
       "2021-07-13": 123,
       "2021-07-12": 129,
       "2021-07-10": 66,
-      "2021-07-09": 32
+      "2021-07-09": 17
     }
   },
   {
@@ -102,10 +102,10 @@
     "url": "http://pi.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/pi.xcash.rocks",
     "slug": "pi-xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "94.43%",
-    "uptimeDay": "83.17%",
-    "uptimeWeek": "50.46%",
+    "uptimeDay": "83.49%",
+    "uptimeWeek": "50.45%",
     "uptimeMonth": "71.66%",
     "uptimeYear": "94.43%",
     "time": 370,
@@ -114,7 +114,7 @@
     "timeMonth": 348,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-08-27": 28,
+      "2021-08-27": 29,
       "2021-08-26": 682,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
@@ -176,7 +176,7 @@
       "2021-03-01": 105,
       "2021-02-28": 24,
       "2021-02-27": 20,
-      "2021-02-26": 75
+      "2021-02-26": 49
     }
   },
   {
@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-08-27": 467,
+      "2021-08-27": 473,
       "2021-08-26": 1440,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
