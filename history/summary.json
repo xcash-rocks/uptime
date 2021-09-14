@@ -11,9 +11,9 @@
     "uptimeMonth": "92.53%",
     "uptimeYear": "98.82%",
     "time": 471,
-    "timeDay": 250,
-    "timeWeek": 396,
-    "timeMonth": 472,
+    "timeDay": 0,
+    "timeWeek": 395,
+    "timeMonth": 473,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2021-09-12": 17,
@@ -56,19 +56,19 @@
     "url": "http://lowfee.xcash.rocks",
     "icon": "https://favicons.githubusercontent.com/lowfee.xcash.rocks",
     "slug": "lowfee-xcash-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "96.98%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "96.97%",
     "uptimeMonth": "92.18%",
     "uptimeYear": "98.65%",
     "time": 573,
-    "timeDay": 474,
-    "timeWeek": 407,
-    "timeMonth": 808,
+    "timeDay": 499,
+    "timeWeek": 403,
+    "timeMonth": 809,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2021-09-14": 37,
+      "2021-09-14": 38,
       "2021-09-10": 57,
       "2021-09-09": 211,
       "2021-09-05": 68,
@@ -99,7 +99,7 @@
       "2021-07-16": 109,
       "2021-07-15": 77,
       "2021-07-14": 131,
-      "2021-07-13": 71
+      "2021-07-13": 54
     }
   },
   {
@@ -108,18 +108,17 @@
     "icon": "https://favicons.githubusercontent.com/pi.xcash.rocks",
     "slug": "pi-xcash-rocks",
     "status": "up",
-    "uptime": "94.65%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "92.38%",
-    "uptimeMonth": "74.66%",
-    "uptimeYear": "94.65%",
+    "uptime": "94.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.43%",
+    "uptimeMonth": "74.67%",
+    "uptimeYear": "94.64%",
     "time": 370,
     "timeDay": 246,
-    "timeWeek": 368,
+    "timeWeek": 366,
     "timeMonth": 358,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-09-14": 5,
       "2021-09-08": 763,
       "2021-09-07": 34,
       "2021-08-27": 28,
@@ -182,7 +181,8 @@
       "2021-03-03": 61,
       "2021-03-02": 28,
       "2021-03-01": 105,
-      "2021-02-28": 24
+      "2021-02-28": 24,
+      "2021-02-27": 20
     }
   },
   {
@@ -202,7 +202,7 @@
     "timeMonth": 0,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-09-14": 1377,
+      "2021-09-14": 1386,
       "2021-09-13": 1440,
       "2021-09-12": 1440,
       "2021-09-11": 1440,
